@@ -1,0 +1,3 @@
+C:/Users/micha/CLionProjects/World/out/build/x64-Debug/CMakeFiles/World.dir
+C:/Users/micha/CLionProjects/World/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/CLionProjects/World/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
